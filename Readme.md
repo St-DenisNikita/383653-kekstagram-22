@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Никифор Денисов](https://up.htmlacademy.ru/javascript/22/user/383653).
-* Наставник: `Неизвестно`.
+* Наставник: [Анастасия Шишова](https://htmlacademy.ru/profile/anashi).
 
 ---
 
